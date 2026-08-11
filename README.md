@@ -118,30 +118,7 @@ A blockchain-based voting application developed to explore the use of **decentra
 
 </details>
 
-<details>
-<summary><strong>Cupid Music Player</strong></summary>
 
-### Overview
-
-A browser-based music player developed to strengthen practical experience in **frontend development, JavaScript programming, UI design, and application logic**.
-
-| Category         | Details                                                   |
-| ---------------- | --------------------------------------------------------- |
-| **Domain**       | Web Development                                           |
-| **Technologies** | HTML · CSS · JavaScript                                   |
-| **Focus**        | Interactive browser-based application                     |
-| **Architecture** | Client-side web application                               |
-| **Repository**   | [GitHub](https://github.com/cupidbity/cupid-music-player) |
-
-### Key Areas
-
-* Interactive music controls
-* JavaScript-based application logic
-* Audio playback functionality
-* Responsive user interface
-* Git and GitHub workflow
-
-</details>
 
 ---
 
