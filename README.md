@@ -1,7 +1,4 @@
-<p align="center">
-  # Madeeha Mohammed Mubeen
-</p>
-
+ # Madeeha Mohammed Mubeen
 <p align="center">
   <strong>Computer Science & Engineering Student | Cybersecurity | Blockchain | Software Engineering</strong>
 </p>
